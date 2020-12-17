@@ -10,7 +10,7 @@
     margin-top: 10px;
 }
 
-#one:hover{
+#one:hover, #one:active{
     background-color: gold;
 }
 /* #one:active{
